@@ -1,0 +1,5 @@
+public calss Dog{
+   public static void main(String[] main){
+       System.out.println("there is a dog");
+   }
+}
